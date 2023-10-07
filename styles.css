@@ -9,6 +9,7 @@
   }
   
   .header {
+    align: center;
     position: relative;
     top: -20px;
     width: 100%;
